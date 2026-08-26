@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "project-personal-finance-tracker",
+  "name": "Personal Finance Tracker",
+  "description": "A personal finance application for tracking and visualizing financial activity.",
+  "visibility": {
+    "showInKrishnaOS": true
+  },
+  "runtime": {
+    "type": "sandbox"
+  }
+}
