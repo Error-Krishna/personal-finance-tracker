@@ -3,6 +3,13 @@
   "id": "project-personal-finance-tracker",
   "name": "Personal Finance Tracker",
   "description": "A personal finance application for tracking and visualizing financial activity.",
+  "role": "Full-Stack Developer",
+  "stack": [
+    "Python",
+    "Flask",
+    "MongoDB",
+    "Chart.js"
+  ],
   "visibility": {
     "showInKrishnaOS": true
   },
